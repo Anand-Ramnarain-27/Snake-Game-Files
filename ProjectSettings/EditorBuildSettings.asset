@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 645830e35e846014a9ab63005210b3b7
+  - enabled: 1
+    path: Assets/Scenes/Snake.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/SnakeMed.unity
+    guid: 9a596549c97767b478f4754a472545dc
+  - enabled: 1
+    path: Assets/Scenes/SnakeHard.unity
+    guid: 78134c1a05d4d3e41b279bf926a73028
+  m_configObjects: {}
